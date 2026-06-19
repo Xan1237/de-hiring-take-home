@@ -9,6 +9,9 @@ LOG_FORMAT = "%(asctime)s [%(levelname)s] %(name)s: %(message)s"
 
 
 def setup_logging(level: int = logging.INFO) -> None:
+    if logging.getLogger().handlers:
+        return
+
     # Create the data/ directory if it doesn't exist yet
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 

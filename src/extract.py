@@ -119,12 +119,10 @@ class WikipediaClient:
         try:
             response = self._timed_get(API_URL, params=params, timeout=REQUEST_TIMEOUT)
             response.raise_for_status()
-        except requests.RequestException:
+            data = response.json()
+        except (requests.RequestException, ValueError):
             logger.exception("Failed to fetch batch of %d page(s)", len(titles))
             return []
-
-        # We get the response and store it in page_data 
-        data = response.json()
         pages_data = data.get("query", {}).get("pages", {})
 
         page_info: dict[int, dict] = {}
@@ -155,12 +153,10 @@ class WikipediaClient:
             try:
                 response = self._timed_get(API_URL, params=continue_params, timeout=REQUEST_TIMEOUT)
                 response.raise_for_status()
-            except requests.RequestException:
+                data = response.json()
+            except (requests.RequestException, ValueError):
                 logger.warning("Failed to fetch link continuation for batch")
                 break
-            
-            # Store the data upsert if needed
-            data = response.json()
             for page in data.get("query", {}).get("pages", {}).values():
                 pageid = page.get("pageid")
                 if pageid in page_info:
@@ -235,7 +231,12 @@ def crawl(seed_title: str = SEED_TITLE, max_depth: int = MAX_DEPTH) -> tuple[lis
 
             # Process results as each batch finishes, not in submission order
             for future in as_completed(futures):
-                for page in future.result():
+                try:
+                    pages = future.result()
+                except Exception:
+                    logger.exception("Batch failed unexpectedly: %r", futures[future])
+                    continue
+                for page in pages:
 
                     # Skip this page if we added the page with said name to the queue
                     if page.pageid in seen_pageids:

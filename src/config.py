@@ -20,7 +20,7 @@ BACKOFF_FACTOR = 1.0
 REQUEST_TIMEOUT = 30
 
 #Header to be included with wikipedia request
-USER_AGENT = "de-hiring-take-home-etl/0.1 (contact: xanderbrown05@gmail.com)"
+USER_AGENT = "de-hiring-take-home-etl/0.1 (https://github.com/Xan1237/de-hiring-take-home)"
 
 # Storage
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
