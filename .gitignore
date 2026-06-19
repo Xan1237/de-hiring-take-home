@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# uv
+.python-version
+
+# Pytest
+.pytest_cache/
+
+# Pipeline output
+data/pipeline.db
+data/pipeline.log
+
+# OS
+.DS_Store
+Thumbs.db
