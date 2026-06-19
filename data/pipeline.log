@@ -1,0 +1,269 @@
+2026-06-18 23:08:46,733 [INFO] __main__: Starting crawl
+2026-06-18 23:08:46,733 [INFO] src.extract: Fetching depth 0: 1 page(s) in 1 batch(es)
+2026-06-18 23:08:47,231 [INFO] src.extract: Fetching depth 1: 100 page(s) in 5 batch(es)
+2026-06-18 23:08:52,217 [INFO] src.extract: Fetching depth 2: 4808 page(s) in 241 batch(es)
+2026-06-18 23:08:52,425 [WARNING] src.extract: Page 'Censuses in New Brunswick' does not exist
+2026-06-18 23:08:52,475 [WARNING] src.extract: Page 'Elijah Ifejeh' does not exist
+2026-06-18 23:08:52,505 [WARNING] src.extract: Page 'Pinheiros Tênis Clube' does not exist
+2026-06-18 23:08:52,637 [WARNING] src.extract: Page '1863 Toronto municipal election' does not exist
+2026-06-18 23:08:52,774 [WARNING] src.extract: Page 'Cuba at the 2031 Pan American Games' does not exist
+2026-06-18 23:09:07,073 [WARNING] src.extract: Page '1885 Toronto municipal election' does not exist
+2026-06-18 23:09:07,710 [WARNING] src.extract: Page 'CEBL Defensive Player of the Year' does not exist
+2026-06-18 23:09:07,710 [WARNING] src.extract: Page '1857 Toronto municipal election' does not exist
+2026-06-18 23:09:07,957 [WARNING] src.extract: Page 'Shooting at the 1955 Pan American Games' does not exist
+2026-06-18 23:09:09,166 [WARNING] src.extract: Page 'Mississippi Canyon Pipeline' does not exist
+2026-06-18 23:09:11,570 [WARNING] src.extract: Page 'Aruba at the 2027 Pan American Games' does not exist
+2026-06-18 23:09:11,570 [WARNING] src.extract: Page 'Guatemala at the 2031 Pan American Games' does not exist
+2026-06-18 23:09:24,383 [WARNING] src.extract: Page 'Mexico at the 2031 Pan American Games' does not exist
+2026-06-18 23:09:24,475 [WARNING] src.extract: Page 'Canada at the 2031 Pan American Games' does not exist
+2026-06-18 23:09:24,476 [WARNING] src.extract: Page '1858 Toronto municipal election' does not exist
+2026-06-18 23:09:27,503 [WARNING] src.extract: Page 'Sailing at the 1979 Pan American Games' does not exist
+2026-06-18 23:09:28,838 [WARNING] src.extract: Page 'Bolivia at the 2027 Pan American Games' does not exist
+2026-06-18 23:09:28,838 [WARNING] src.extract: Page '2026 Colorado Mammoth season' does not exist
+2026-06-18 23:10:00,594 [WARNING] src.extract: Page '1886 Toronto municipal election' does not exist
+2026-06-18 23:10:00,917 [WARNING] src.extract: Page '2028 Summer Paralympics medal table' does not exist
+2026-06-18 23:10:02,172 [WARNING] src.extract: Page 'Argentina at the 2031 Pan American Games' does not exist
+2026-06-18 23:10:02,172 [WARNING] src.extract: Page '1859 Toronto municipal election' does not exist
+2026-06-18 23:10:04,565 [WARNING] src.extract: Page 'CEBL Clutch Player of the Year' does not exist
+2026-06-18 23:10:04,565 [WARNING] src.extract: Page 'Sailing at the 1975 Pan American Games' does not exist
+2026-06-18 23:10:04,642 [WARNING] src.extract: Page 'Barcelona Olympic Organising Committee' does not exist
+2026-06-18 23:10:17,895 [WARNING] src.extract: Page 'Chronological summary of the 1996 Summer Paralympics' does not exist
+2026-06-18 23:10:19,101 [WARNING] src.extract: Page 'Costa Rica at the 2015 Parapan American Games' does not exist
+2026-06-18 23:10:19,905 [WARNING] src.extract: Page 'Rowing at the 1975 Pan American Games' does not exist
+2026-06-18 23:10:23,602 [WARNING] src.extract: Page '2027 Pan American Games closing ceremony' does not exist
+2026-06-18 23:10:23,731 [WARNING] src.extract: Page 'Caroline DiGiovanni' does not exist
+2026-06-18 23:11:01,217 [WARNING] src.extract: Page '2003 Pan American Games torch relay' does not exist
+2026-06-18 23:11:01,363 [WARNING] src.extract: Page 'Paraguay at the 2031 Pan American Games' does not exist
+2026-06-18 23:11:02,078 [WARNING] src.extract: Page 'Ecuador at the 2031 Pan American Games' does not exist
+2026-06-18 23:11:05,344 [WARNING] src.extract: Page '1996 Summer Paralympics national flag bearers' does not exist
+2026-06-18 23:11:05,344 [WARNING] src.extract: Page 'Ciudad de los Poetas High School' does not exist
+2026-06-18 23:11:05,554 [WARNING] src.extract: Page '1867 Toronto municipal election' does not exist
+2026-06-18 23:11:05,555 [WARNING] src.extract: Page 'Tennis at the 1975 Pan American Games' does not exist
+2026-06-18 23:11:06,361 [WARNING] src.extract: Page 'All Media Sports' does not exist
+2026-06-18 23:11:17,616 [WARNING] src.extract: Page 'Barbados at the 2031 Pan American Games' does not exist
+2026-06-18 23:11:18,264 [WARNING] src.extract: Page 'Basketball ID' does not exist
+2026-06-18 23:11:20,250 [WARNING] src.extract: Page '2027 Pan American Games torch relay' does not exist
+2026-06-18 23:11:20,272 [WARNING] src.extract: Page 'Chronological summary of the 2027 Pan American Games' does not exist
+2026-06-18 23:11:20,483 [WARNING] src.extract: Page 'Shooting at the 1979 Pan American Games' does not exist
+2026-06-18 23:11:21,162 [WARNING] src.extract: Page 'Censuses in Ontario' does not exist
+2026-06-18 23:11:23,254 [WARNING] src.extract: Page 'CEBL U SPORTS Player of the Year' does not exist
+2026-06-18 23:11:23,307 [WARNING] src.extract: Page 'Michael Vian' does not exist
+2026-06-18 23:12:04,462 [WARNING] src.extract: Page '2035 Pan American Games' does not exist
+2026-06-18 23:12:04,462 [WARNING] src.extract: Page '1882 Toronto municipal election' does not exist
+2026-06-18 23:12:04,462 [WARNING] src.extract: Page 'Bermuda at the 2031 Pan American Games' does not exist
+2026-06-18 23:12:04,579 [WARNING] src.extract: Page '1873 Toronto municipal election' does not exist
+2026-06-18 23:12:06,373 [WARNING] src.extract: Page 'Equestrian at the 1975 Pan American Games' does not exist
+2026-06-18 23:12:06,374 [WARNING] src.extract: Page 'CEBL Coach of the Year' does not exist
+2026-06-18 23:12:06,374 [WARNING] src.extract: Page 'Censuses in Acadia' does not exist
+2026-06-18 23:12:18,393 [WARNING] src.extract: Page 'Saint Vincent and the Grenadines at the 2031 Pan American Games' does not exist
+2026-06-18 23:12:18,393 [WARNING] src.extract: Page 'Basque pelota at the 2027 Pan American Games' does not exist
+2026-06-18 23:12:19,023 [WARNING] src.extract: Page 'Barbara Poplowski' does not exist
+2026-06-18 23:12:19,749 [WARNING] src.extract: Page '2004 Summer Paralympics national flag bearers' does not exist
+2026-06-18 23:12:21,453 [WARNING] src.extract: Page 'Antigua and Barbuda at the 2031 Pan American Games' does not exist
+2026-06-18 23:12:21,454 [WARNING] src.extract: Page 'Irene Preslipski' does not exist
+2026-06-18 23:12:22,358 [WARNING] src.extract: Page '1878 Toronto municipal election' does not exist
+2026-06-18 23:12:23,780 [WARNING] src.extract: Page 'Honduras at the 2031 Pan American Games' does not exist
+2026-06-18 23:13:00,304 [WARNING] src.extract: Page 'Costa Rica at the 2027 Pan American Games' does not exist
+2026-06-18 23:13:00,304 [WARNING] src.extract: Page '1866 Toronto municipal election' does not exist
+2026-06-18 23:13:00,304 [WARNING] src.extract: Page '2027 Pan American Games Parade of Nations' does not exist
+2026-06-18 23:13:02,329 [WARNING] src.extract: Page '2026 Ottawa Black Bears season' does not exist
+2026-06-18 23:13:04,745 [WARNING] src.extract: Page '1996 Summer Paralympics closing ceremony' does not exist
+2026-06-18 23:13:18,004 [WARNING] src.extract: Page 'Canada at the 2027 Pan American Games' does not exist
+2026-06-18 23:13:18,039 [WARNING] src.extract: Page 'Tennis at the 1983 Pan American Games' does not exist
+2026-06-18 23:13:18,040 [WARNING] src.extract: Page 'Jacques Oligier' does not exist
+2026-06-18 23:13:18,166 [WARNING] src.extract: Page 'Belize at the 2027 Pan American Games' does not exist
+2026-06-18 23:13:20,453 [WARNING] src.extract: Page 'Associacion Nacional de Prestura de Servicios' does not exist
+2026-06-18 23:13:20,798 [WARNING] src.extract: Page 'Saint Lucia at the 2031 Pan American Games' does not exist
+2026-06-18 23:13:22,684 [WARNING] src.extract: Page 'Cody John' does not exist
+2026-06-18 23:13:22,684 [WARNING] src.extract: Page 'Saint Kitts and Nevis at the 2031 Pan American Games' does not exist
+2026-06-18 23:13:23,099 [WARNING] src.extract: Page '2027 Parapan American Games' does not exist
+2026-06-18 23:13:23,099 [WARNING] src.extract: Page '2003 Pan American Games Parade of Nations' does not exist
+2026-06-18 23:13:23,302 [WARNING] src.extract: Page 'Barbados at the 2027 Pan American Games' does not exist
+2026-06-18 23:14:00,711 [WARNING] src.extract: Page 'José Lozada' does not exist
+2026-06-18 23:14:00,711 [WARNING] src.extract: Page 'Caballero Dolcey' does not exist
+2026-06-18 23:14:01,142 [WARNING] src.extract: Page '1842 census of Canada West' does not exist
+2026-06-18 23:14:01,143 [WARNING] src.extract: Page 'Blake Kinahan' does not exist
+2026-06-18 23:14:01,143 [WARNING] src.extract: Page 'Tennis at the 1979 Pan American Games' does not exist
+2026-06-18 23:14:01,490 [WARNING] src.extract: Page '1871 Toronto municipal election' does not exist
+2026-06-18 23:14:01,490 [WARNING] src.extract: Page '120 (emergency telephone number)' does not exist
+2026-06-18 23:14:03,931 [WARNING] src.extract: Page 'Atlanta Paralympics Organizing Committee' does not exist
+2026-06-18 23:14:03,931 [WARNING] src.extract: Page '2028 Summer Olympics medal table' does not exist
+2026-06-18 23:14:03,931 [WARNING] src.extract: Page '1872 Toronto municipal election' does not exist
+2026-06-18 23:14:03,931 [WARNING] src.extract: Page '1881 Toronto municipal election' does not exist
+2026-06-18 23:14:04,346 [WARNING] src.extract: Page 'CEBL Finals MVP' does not exist
+2026-06-18 23:14:06,288 [WARNING] src.extract: Page 'Argentina at the 2027 Pan American Games' does not exist
+2026-06-18 23:14:06,288 [WARNING] src.extract: Page 'Belize at the 2031 Pan American Games' does not exist
+2026-06-18 23:14:06,339 [WARNING] src.extract: Page 'Puerto Rico at the 2031 Pan American Games' does not exist
+2026-06-18 23:14:06,339 [WARNING] src.extract: Page '2026 Rochester Knighthawks season' does not exist
+2026-06-18 23:14:19,288 [WARNING] src.extract: Page 'Enrique Montiel' does not exist
+2026-06-18 23:14:19,288 [WARNING] src.extract: Page 'Field hockey at the 1963 Pan American Games' does not exist
+2026-06-18 23:14:19,289 [WARNING] src.extract: Page '2026 Georgia Swarm season' does not exist
+2026-06-18 23:14:20,856 [WARNING] src.extract: Page 'Chris Exilus' does not exist
+2026-06-18 23:14:21,785 [WARNING] src.extract: Page 'Fencing at the 1975 Pan American Games' does not exist
+2026-06-18 23:14:21,785 [WARNING] src.extract: Page '1879 Toronto municipal election' does not exist
+2026-06-18 23:14:21,785 [WARNING] src.extract: Page '2020 Summer Paralympics closing ceremony flag bearers' does not exist
+2026-06-18 23:14:22,237 [WARNING] src.extract: Page 'El Salvador at the 2031 Pan American Games' does not exist
+2026-06-18 23:14:22,237 [WARNING] src.extract: Page 'Bowling at the 2027 Pan American Games' does not exist
+2026-06-18 23:14:22,642 [WARNING] src.extract: Page 'Beach volleyball at the 2027 Pan American Games' does not exist
+2026-06-18 23:14:22,642 [WARNING] src.extract: Page 'Rowing at the 1955 Pan American Games' does not exist
+2026-06-18 23:15:00,236 [WARNING] src.extract: Page 'Elijah Lufile' does not exist
+2026-06-18 23:15:00,237 [WARNING] src.extract: Page 'Alain Louis' does not exist
+2026-06-18 23:15:01,844 [WARNING] src.extract: Page 'Atlanta Paralympic Organizing Committee' does not exist
+2026-06-18 23:15:03,446 [WARNING] src.extract: Page '1842 census of Canada East' does not exist
+2026-06-18 23:15:04,215 [WARNING] src.extract: Page '2028 Summer Olympic and Paralympic Games mascots' does not exist
+2026-06-18 23:15:04,641 [WARNING] src.extract: Page 'Equestrian at the 1971 Pan American Games' does not exist
+2026-06-18 23:15:17,605 [WARNING] src.extract: Page '128 (emergency telephone number)' does not exist
+2026-06-18 23:15:20,804 [WARNING] src.extract: Page 'Bahamas at the 2031 Pan American Games' does not exist
+2026-06-18 23:15:21,183 [WARNING] src.extract: Page 'Censuses in Manitoba' does not exist
+2026-06-18 23:15:21,183 [WARNING] src.extract: Page 'Baseball at the 2027 Pan American Games' does not exist
+2026-06-18 23:15:21,184 [WARNING] src.extract: Page 'Bolivia at the 1995 Pan American Games' does not exist
+2026-06-18 23:15:23,021 [WARNING] src.extract: Page '2026 Calgary Roughnecks season' does not exist
+2026-06-18 23:15:23,022 [WARNING] src.extract: Page 'Guyana at the 2031 Pan American Games' does not exist
+2026-06-18 23:15:23,091 [WARNING] src.extract: Page 'Francisco López (weightlifter)' does not exist
+2026-06-18 23:16:01,018 [WARNING] src.extract: Page 'Barbados at the 1995 Pan American Games' does not exist
+2026-06-18 23:16:01,018 [WARNING] src.extract: Page 'Artistic swimming at the 2027 Pan American Games' does not exist
+2026-06-18 23:16:02,547 [WARNING] src.extract: Page 'Chronological summary of the 2019 Parapan American Games' does not exist
+2026-06-18 23:16:05,527 [WARNING] src.extract: Page '2027 Pan American Games mascot' does not exist
+2026-06-18 23:16:06,357 [WARNING] src.extract: Page '2026 Las Vegas Desert Dogs season' does not exist
+2026-06-18 23:16:17,664 [WARNING] src.extract: Page '1825 census of Lower Canada' does not exist
+2026-06-18 23:16:18,476 [WARNING] src.extract: Page 'Antigua and Barbuda at the 2027 Pan American Games' does not exist
+2026-06-18 23:16:18,476 [WARNING] src.extract: Page '2027 Pan American Games medal table' does not exist
+2026-06-18 23:16:18,476 [WARNING] src.extract: Page 'Censuses in Prince Edward Island' does not exist
+2026-06-18 23:16:18,476 [WARNING] src.extract: Page 'Nicaragua at the 2031 Pan American Games' does not exist
+2026-06-18 23:16:18,477 [WARNING] src.extract: Page '1864 Toronto municipal election' does not exist
+2026-06-18 23:16:19,393 [WARNING] src.extract: Page '1992 Summer Paralympics national flag bearers' does not exist
+2026-06-18 23:16:19,700 [WARNING] src.extract: Page '1875 Toronto municipal election' does not exist
+2026-06-18 23:16:19,701 [WARNING] src.extract: Page 'Archery at the 2027 Pan American Games' does not exist
+2026-06-18 23:16:20,400 [WARNING] src.extract: Page 'Censuses in Nova Scotia' does not exist
+2026-06-18 23:16:20,400 [WARNING] src.extract: Page 'Dominican Republic at the 2031 Pan American Games' does not exist
+2026-06-18 23:16:21,822 [WARNING] src.extract: Page '2003 Pan American Games closing ceremony' does not exist
+2026-06-18 23:16:21,822 [WARNING] src.extract: Page 'Kendra Kobelka' does not exist
+2026-06-18 23:16:22,470 [WARNING] src.extract: Page 'Cayman Islands at the 2027 Pan American Games' does not exist
+2026-06-18 23:17:00,325 [WARNING] src.extract: Page 'Chile at the 2031 Pan American Games' does not exist
+2026-06-18 23:17:00,326 [WARNING] src.extract: Page 'British Virgin Islands at the 2031 Pan American Games' does not exist
+2026-06-18 23:17:00,326 [WARNING] src.extract: Page 'Equestrian at the 1979 Pan American Games' does not exist
+2026-06-18 23:17:00,902 [WARNING] src.extract: Page 'Fencing at the 1955 Pan American Games' does not exist
+2026-06-18 23:17:00,902 [WARNING] src.extract: Page 'Chile at the 2027 Pan American Games' does not exist
+2026-06-18 23:17:00,997 [WARNING] src.extract: Page '1868 Toronto municipal election' does not exist
+2026-06-18 23:17:00,998 [WARNING] src.extract: Page '2027 Pan American Games opening ceremony' does not exist
+2026-06-18 23:17:00,998 [WARNING] src.extract: Page 'Alex Krushelnyski' does not exist
+2026-06-18 23:17:01,004 [WARNING] src.extract: Page 'Fencing at the 1979 Pan American Games' does not exist
+2026-06-18 23:17:02,213 [WARNING] src.extract: Page '1877 Toronto municipal election' does not exist
+2026-06-18 23:17:02,301 [WARNING] src.extract: Page 'Chronological summary of the 2019 Pan American Games' does not exist
+2026-06-18 23:17:03,587 [WARNING] src.extract: Page '1862 Toronto municipal election' does not exist
+2026-06-18 23:17:03,587 [WARNING] src.extract: Page '2028 Summer Paralympics torch relay' does not exist
+2026-06-18 23:17:05,162 [WARNING] src.extract: Page 'Aruba at the 2031 Pan American Games' does not exist
+2026-06-18 23:17:06,085 [WARNING] src.extract: Page 'Equestrian at the 1967 Pan American Games' does not exist
+2026-06-18 23:17:06,481 [WARNING] src.extract: Page 'Shooting at the 1975 Pan American Games' does not exist
+2026-06-18 23:17:18,955 [WARNING] src.extract: Page 'Athletics at the 2027 Pan American Games' does not exist
+2026-06-18 23:17:18,955 [WARNING] src.extract: Page '2026 Saskatchewan Rush season' does not exist
+2026-06-18 23:17:18,955 [WARNING] src.extract: Page 'Juan De la Cruz' does not exist
+2026-06-18 23:17:21,635 [WARNING] src.extract: Page 'Grenada at the 2031 Pan American Games' does not exist
+2026-06-18 23:17:21,635 [WARNING] src.extract: Page '1998 New Hampshire state elections' does not exist
+2026-06-18 23:17:22,673 [WARNING] src.extract: Page '123 (emergency telephone number)' does not exist
+2026-06-18 23:17:22,674 [WARNING] src.extract: Page 'AJ Hess' does not exist
+2026-06-18 23:17:22,674 [WARNING] src.extract: Page 'Jamaica at the 2031 Pan American Games' does not exist
+2026-06-18 23:17:23,369 [WARNING] src.extract: Page '1874 Toronto municipal election' does not exist
+2026-06-18 23:17:23,370 [WARNING] src.extract: Page 'Chronological summary of the 2003 Pan American Games' does not exist
+2026-06-18 23:17:23,370 [WARNING] src.extract: Page '2026 Halifax Thunderbirds season' does not exist
+2026-06-18 23:18:01,083 [WARNING] src.extract: Page '2026 Oshawa FireWolves season' does not exist
+2026-06-18 23:18:01,454 [WARNING] src.extract: Page 'Tennis at the 1955 Pan American Games' does not exist
+2026-06-18 23:18:01,454 [WARNING] src.extract: Page 'Censuses in Newfoundland and Labrador' does not exist
+2026-06-18 23:18:02,177 [WARNING] src.extract: Page 'Canoeing at the 2027 Pan American Games' does not exist
+2026-06-18 23:18:03,732 [WARNING] src.extract: Page 'José Adarmes' does not exist
+2026-06-18 23:18:04,654 [WARNING] src.extract: Page 'Paracanoeing at the 2028 Summer Paralympics' does not exist
+2026-06-18 23:18:05,129 [WARNING] src.extract: Page '1861 Toronto municipal election' does not exist
+2026-06-18 23:18:05,129 [WARNING] src.extract: Page 'Aquatics at the 1963 Pan American Games' does not exist
+2026-06-18 23:18:05,945 [WARNING] src.extract: Page 'Censuses in Quebec' does not exist
+2026-06-18 23:18:05,945 [WARNING] src.extract: Page '2017 Hull FC season' does not exist
+2026-06-18 23:18:20,141 [WARNING] src.extract: Page 'Cayman Islands at the 2031 Pan American Games' does not exist
+2026-06-18 23:18:20,936 [WARNING] src.extract: Page 'Equestrian at the 1959 Pan American Games' does not exist
+2026-06-18 23:18:20,936 [WARNING] src.extract: Page 'CEBL Canadian Player of the Year' does not exist
+2026-06-18 23:18:21,213 [WARNING] src.extract: Page 'Cynthia Guadalupe' does not exist
+2026-06-18 23:18:21,390 [WARNING] src.extract: Page 'Climbing at the 2027 Pan American Games' does not exist
+2026-06-18 23:18:21,390 [WARNING] src.extract: Page 'Basketball IB at the 1992 Summer Paralympics' does not exist
+2026-06-18 23:18:22,374 [WARNING] src.extract: Page 'Chronological summary of the 2028 Summer Paralympics' does not exist
+2026-06-18 23:19:00,690 [WARNING] src.extract: Page 'Fencing at the 1967 Pan American Games' does not exist
+2026-06-18 23:19:00,690 [WARNING] src.extract: Page '2004 Summer Paralympics torch relay' does not exist
+2026-06-18 23:19:00,864 [WARNING] src.extract: Page 'Colombia at the 2031 Pan American Games' does not exist
+2026-06-18 23:19:00,864 [WARNING] src.extract: Page 'Fencing at the 1959 Pan American Games' does not exist
+2026-06-18 23:19:03,753 [WARNING] src.extract: Page 'Panama at the 2031 Pan American Games' does not exist
+2026-06-18 23:19:03,753 [WARNING] src.extract: Page 'Equestrian at the 1955 Pan American Games' does not exist
+2026-06-18 23:19:04,562 [WARNING] src.extract: Page 'Cuba at the 2015 Parapan American Games' does not exist
+2026-06-18 23:19:04,562 [WARNING] src.extract: Page 'Boxing at the 2027 Pan American Games' does not exist
+2026-06-18 23:19:05,104 [WARNING] src.extract: Page 'Softball at the 1979 Pan American Games' does not exist
+2026-06-18 23:19:05,105 [WARNING] src.extract: Page '1865 Toronto municipal election' does not exist
+2026-06-18 23:19:05,547 [WARNING] src.extract: Page 'Aqua Acetosa' does not exist
+2026-06-18 23:19:05,548 [WARNING] src.extract: Page 'Colombia at the 2027 Pan American Games' does not exist
+2026-06-18 23:19:17,891 [WARNING] src.extract: Page 'Federation of Francophone and Acadian Communities' does not exist
+2026-06-18 23:19:17,891 [WARNING] src.extract: Page 'Bolivia at the 2031 Pan American Games' does not exist
+2026-06-18 23:19:19,560 [WARNING] src.extract: Page 'British Virgin Islands at the 2027 Pan American Games' does not exist
+2026-06-18 23:19:20,305 [WARNING] src.extract: Page 'Haiti at the 2031 Pan American Games' does not exist
+2026-06-18 23:19:20,305 [WARNING] src.extract: Page '1884 Toronto municipal election' does not exist
+2026-06-18 23:19:23,204 [WARNING] src.extract: Page '1996 Summer Paralympics opening ceremony' does not exist
+2026-06-18 23:19:23,391 [WARNING] src.extract: Page '1887 Toronto municipal election' does not exist
+2026-06-18 23:19:23,391 [WARNING] src.extract: Page '1876 Toronto municipal election' does not exist
+2026-06-18 23:19:23,525 [WARNING] src.extract: Page '2031 Parapan American Games' does not exist
+2026-06-18 23:20:02,762 [WARNING] src.extract: Page 'Fencing at the 1971 Pan American Games' does not exist
+2026-06-18 23:20:03,074 [WARNING] src.extract: Page '1861 Canadian census' does not exist
+2026-06-18 23:20:04,046 [WARNING] src.extract: Page '1869 Toronto municipal election' does not exist
+2026-06-18 23:20:04,046 [WARNING] src.extract: Page '2017 Huddersfield Giants season' does not exist
+2026-06-18 23:20:04,046 [WARNING] src.extract: Page 'Censuses of First Nations bands' does not exist
+2026-06-18 23:20:18,003 [WARNING] src.extract: Page 'Bermuda at the 2027 Pan American Games' does not exist
+2026-06-18 23:20:18,475 [WARNING] src.extract: Page 'Costa Rica at the 2031 Pan American Games' does not exist
+2026-06-18 23:20:19,082 [WARNING] src.extract: Page 'Nathaniel Bryan' does not exist
+2026-06-18 23:20:20,414 [WARNING] src.extract: Page 'Badminton at the 2027 Pan American Games' does not exist
+2026-06-18 23:20:23,565 [WARNING] src.extract: Page '1831 census of Lower Canada' does not exist
+2026-06-18 23:21:00,376 [WARNING] src.extract: Page 'Dominica at the 2031 Pan American Games' does not exist
+2026-06-18 23:21:01,030 [WARNING] src.extract: Page '1883 Toronto municipal election' does not exist
+2026-06-18 23:21:02,036 [WARNING] src.extract: Page 'Mario Durruty' does not exist
+2026-06-18 23:21:05,065 [WARNING] src.extract: Page 'Brazil at the 2031 Pan American Games' does not exist
+2026-06-18 23:21:05,116 [WARNING] src.extract: Page 'Judo at the 1955 Pan American Games' does not exist
+2026-06-18 23:21:05,117 [WARNING] src.extract: Page 'Censuses in British Columbia' does not exist
+2026-06-18 23:21:05,375 [WARNING] src.extract: Page 'Bahamas at the 2027 Pan American Games' does not exist
+2026-06-18 23:21:05,842 [WARNING] src.extract: Page '1851 Canadian census' does not exist
+2026-06-18 23:21:05,842 [WARNING] src.extract: Page '2026 Philadelphia Wings season' does not exist
+2026-06-18 23:21:05,843 [WARNING] src.extract: Page 'Ben Tausig' does not exist
+2026-06-18 23:21:19,023 [WARNING] src.extract: Page 'CEBL Sixth man of the year' does not exist
+2026-06-18 23:21:20,663 [WARNING] src.extract: Page '2028 Summer Paralympics national flag bearers' does not exist
+2026-06-18 23:21:21,612 [WARNING] src.extract: Page 'Rowing at the 1979 Pan American Games' does not exist
+2026-06-18 23:21:21,612 [WARNING] src.extract: Page 'Athens 2004 Olympic and Paralympics Organizing Committee' does not exist
+2026-06-18 23:21:21,883 [WARNING] src.extract: Page '110 (emergency telephone number)' does not exist
+2026-06-18 23:21:22,024 [WARNING] src.extract: Page 'Peru at the 2031 Pan American Games' does not exist
+2026-06-18 23:22:02,884 [INFO] src.extract: Crawl complete: 4396 pages fetched in 13.27 min (331.3 pages/min)
+2026-06-18 23:22:04,719 [INFO] src.load: Upserted 4396 page(s) into staging_pages
+2026-06-18 23:22:04,721 [INFO] __main__: Transforming pages
+2026-06-18 23:22:04,741 [WARNING] src.transform: Skipping page '1871 in baseball': missing extract/summary
+2026-06-18 23:22:04,766 [WARNING] src.transform: Skipping page '1898 in Canadian football': missing extract/summary
+2026-06-18 23:22:04,777 [WARNING] src.transform: Skipping page '1889 Philadelphia Quakers season': missing extract/summary
+2026-06-18 23:22:04,788 [WARNING] src.transform: Skipping page 'Table tennis at the 1979 Pan American Games': missing extract/summary
+2026-06-18 23:22:04,804 [WARNING] src.transform: Skipping page '1897 Philadelphia Phillies season': missing extract/summary
+2026-06-18 23:22:04,822 [WARNING] src.transform: Skipping page '1895 in Canadian football': missing extract/summary
+2026-06-18 23:22:04,874 [WARNING] src.transform: Skipping page 'Australia at the 1960 Summer Paralympics': missing extract/summary
+2026-06-18 23:22:04,915 [WARNING] src.transform: Skipping page 'Neighborhoods in Akron, Ohio': missing extract/summary
+2026-06-18 23:22:04,925 [WARNING] src.transform: Skipping page '1897 in Canadian football': missing extract/summary
+2026-06-18 23:22:04,939 [WARNING] src.transform: Skipping page '1922 in Canadian football': missing extract/summary
+2026-06-18 23:22:04,951 [WARNING] src.transform: Skipping page '1896 in Canadian football': missing extract/summary
+2026-06-18 23:22:04,978 [WARNING] src.transform: Skipping page '1893 Philadelphia Phillies season': missing extract/summary
+2026-06-18 23:22:04,982 [WARNING] src.transform: Skipping page 'Modern pentathlon at the 1963 Pan American Games': missing extract/summary
+2026-06-18 23:22:04,999 [WARNING] src.transform: Skipping page '1891 in Canadian football': missing extract/summary
+2026-06-18 23:22:05,055 [WARNING] src.transform: Skipping page '1892 in Canadian football': missing extract/summary
+2026-06-18 23:22:05,069 [WARNING] src.transform: Skipping page 'Table tennis at the 1983 Pan American Games': missing extract/summary
+2026-06-18 23:22:05,078 [WARNING] src.transform: Skipping page '1901 in Canadian football': missing extract/summary
+2026-06-18 23:22:05,101 [WARNING] src.transform: Skipping page '1891 Philadelphia Phillies season': missing extract/summary
+2026-06-18 23:22:05,165 [WARNING] src.transform: Skipping page '1893 in Canadian football': missing extract/summary
+2026-06-18 23:22:05,167 [WARNING] src.transform: Skipping page '1894 in Canadian football': missing extract/summary
+2026-06-18 23:22:05,168 [INFO] src.transform: Transformed 4376/4396 pages
+2026-06-18 23:22:48,099 [INFO] src.load: Upserted 4376 page(s) and 1276305 link(s) into production tables
+2026-06-18 23:22:48,228 [INFO] __main__: Pipeline complete: 4396 raw page(s), 4376 production page(s)
+2026-06-18 23:22:48,229 [INFO] __main__: 
+  ── Pipeline Stats ──────────────────────────
+  Pages fetched        : 4396
+  Pages produced       : 4376  (99.5% pass rate)
+  Elapsed time         : 13.27 min
+  Throughput           : 331.3 pages/min
+  Total API requests   : 2749
+  Avg request time     : 1.91s
+  Min request time     : 0.07s
+  Max request time     : 37.28s
+  ─────────────────────────────────────────────
